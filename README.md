@@ -42,6 +42,9 @@ If there isn't BollywoodMovieRank.csv, the project will scrape data from IMDB we
 
 ## Resources
 [BollywoodMovieDetail.csv](https://github.com/calci/bollywood-movie-dataset/blob/master/BollywoodMovieDetail.csv)
+
 [Flask Document](https://flask.palletsprojects.com/en/2.3.x/)
+
 [Selenium with Python](https://selenium-python.readthedocs.io/index.html)
+
 [HTML Tutorial](https://www.w3schools.com/html/)
