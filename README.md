@@ -41,10 +41,7 @@ If there isn't BollywoodMovieRank.csv, the project will scrape data from IMDB we
 [handling_file.py](https://github.com/fiveheartone/python_project_Xinyi/blob/master/movie_recommend/src/handling_file.py): to handle the scraped BollywoodMovieRank.csv and fuzzy match the genres and numbers which are taken from the users. Click Recommend titles and the type situations are saved in [project_output.pdf](https://github.com/fiveheartone/python_project_Xinyi/blob/master/project_output.pdf).
 
 ## Resources
-[BollywoodMovieDetail.csv](https://github.com/calci/bollywood-movie-dataset/blob/master/BollywoodMovieDetail.csv)
-
-[Flask Document](https://flask.palletsprojects.com/en/2.3.x/)
-
-[Selenium with Python](https://selenium-python.readthedocs.io/index.html)
-
-[HTML Tutorial](https://www.w3schools.com/html/)
+- [BollywoodMovieDetail.csv](https://github.com/calci/bollywood-movie-dataset/blob/master/BollywoodMovieDetail.csv)
+- [Flask Document](https://flask.palletsprojects.com/en/2.3.x/)
+- [Selenium with Python](https://selenium-python.readthedocs.io/index.html)
+- [HTML Tutorial](https://www.w3schools.com/html/)
